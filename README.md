@@ -5,12 +5,13 @@ This project explores real-world website analytics data to uncover trends in use
 ---
 
 ## 📁 Project Structure
-Website-Traffic-Analysis/
-├── data/
-│ └── dataset.csv
-├── notebooks/
-│ └── website_traffic_analysis.ipynb
-├── README.md
+    Website-Traffic-Analysis/
+    ├── data/
+    │   └── dataset.csv
+    ├── notebooks/
+    │   └── website_traffic_analysis.ipynb
+    └── README.md
+
 
 
 ---
