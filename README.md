@@ -64,4 +64,5 @@ Website-Traffic-Analysis/
    cd Data Analytics Projects
 
 2. Open the notebook:
+    ```bash
     jupyter notebook notebooks/website_traffic_analysis.ipynb
